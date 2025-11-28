@@ -41,7 +41,7 @@ A Streamlit application for annotating LLM-generated answers based on specific r
 3.  **Annotate**:
     - Select the Model you want to evaluate (if multiple are present).
     - Select the Rubrics you want to use.
-    - Use the sliders to grade the answer. Descriptions appear below the slider and in tooltips.
+    - Use the radio buttons to grade the answer. Descriptions appear next to the buttons.
     - Click **Save & Next** to move to the next row.
 
 4.  **Save Progress**:
